@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0a1a2e,70:0d2137,100:00d4ff&amp;height=240&amp;section=header&amp;text=VIGIL-EYE&amp;fontSize=90&amp;fontColor=00d4ff&amp;fontAlignY=42&amp;fontStyle=bold&amp;desc=Multi-Modal%20Guard%20%E2%80%94%20Real-Time%20Deepfake%20Detection%20%26%20Liveness%20Verification&amp;descSize=20&amp;descAlignY=63&amp;descColor=b0d4ff&amp;animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0a1a2e,70:0d2137,100:00d4ff&amp;height=240&amp;section=header&amp;text=VIGIL-EYE&amp;fontSize=90&amp;fontColor=00d4ff&amp;fontAlignY=42&amp;fontStyle=bold&amp;desc=Multi-Modal%20Guard%20--%20Real-Time%20Deepfake%20Detection%20and%20Liveness%20Verification&amp;descSize=20&amp;descAlignY=63&amp;descColor=b0d4ff&amp;animation=twinkling" />
 
 <br/>
 
@@ -19,19 +19,22 @@
 <br/><br/>
 
 <a href="#-screenshots--live-ui">
-  <img src="https://img.shields.io/badge/📸%20LIVE%20UI-View%20Screenshots-00d4ff?style=for-the-badge&amp;labelColor=0d2137" />
+  <img width="1600" height="752" alt="WhatsApp Image 2026-04-24 at 21 40 38 - Copy" src="https://github.com/user-attachments/assets/a9224aa3-4062-44b1-b9cb-350114e5e95c" />
+
 </a>
 &nbsp;
 <a href="#%EF%B8%8F-installation--setup">
-  <img src="https://img.shields.io/badge/⚡%20QUICK%20START-Run%20Locally-7c3aed?style=for-the-badge&amp;labelColor=0d2137" />
-</a>
+  <img width="1600" height="754" alt="WhatsApp Image 2026-04-24 at 21 40 38 (2)" src="https://github.com/user-attachments/assets/118b18bd-1b9c-48d6-885b-ab9902637bf3" />
+
 &nbsp;
 <a href="#-why-vigil-eye-wins">
-  <img src="https://img.shields.io/badge/🏆%20WHY%20WE%20WIN-Judge%20Brief-00ff88?style=for-the-badge&amp;labelColor=0d2137" />
+  <img width="1600" height="754" alt="WhatsApp Image 2026-04-24 at 21 40 38 (4) - Copy" src="https://github.com/user-attachments/assets/ead7f2d1-d281-457b-b833-3943bce4daac" />
+
 </a>
 &nbsp;
 <a href="https://github.com/your-username/vigil-eye">
-  <img src="https://img.shields.io/badge/⭐%20STAR%20REPO-Support%20Team%20Cypher-ffd700?style=for-the-badge&amp;labelColor=0d2137" />
+  <img width="1600" height="755" alt="WhatsApp Image 2026-04-24 at 22 15 13" src="https://github.com/user-attachments/assets/2fb48cf1-d3d6-498c-a297-948708cec993" />
+
 </a>
 
 <br/><br/>
