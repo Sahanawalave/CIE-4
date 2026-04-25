@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0a1a2e,70:0d2137,100:00d4ff&amp;height=240&amp;section=header&amp;text=VIGIL-EYE&amp;fontSize=90&amp;fontColor=00d4ff&amp;fontAlignY=42&amp;fontStyle=bold&amp;desc=Multi-Modal%20Guard%20%E2%80%94%20Real-Time%20Deepfake%20Detection%20%26%20Liveness%20Verification&amp;descSize=20&amp;descAlignY=63&amp;descColor=b0d4ff&amp;animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0a1a2e,70:0d2137,100:00d4ff&amp;height=240&amp;section=header&amp;text=VIGIL-EYE&amp;fontSize=90&amp;fontColor=00d4ff&amp;fontAlignY=42&amp;fontStyle=bold&amp;desc=Multi-Modal%20Guard%20--%20Real-Time%20Deepfake%20Detection%20and%20Liveness%20Verification&amp;descSize=20&amp;descAlignY=63&amp;descColor=b0d4ff&amp;animation=twinkling" />
 
 <br/>
 
@@ -80,7 +80,7 @@ In a world where AI-generated faces, cloned voices, and synthetic video are indi
 
 ### 🖥️ Dashboard — Live Vision Feed · Identity Verified · 99.8% Confidence
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1600" height="752" alt="WhatsApp Image 2026-04-24 at 21 40 38 - Copy" src="https://github.com/user-attachments/assets/58c8cf2d-07c0-44fd-aa6e-5735233d6541" />
 
 > *Live session active · rPPG Pulse: **73 bpm** · Voice: **Authenticated** · All 4 checks passed — Biological ✓ Environmental ✓ Deepfake AI ✓ Voice Auth ✓ · SHA-256 session hash in audit log*
 
@@ -88,7 +88,8 @@ In a world where AI-generated faces, cloned voices, and synthetic video are indi
 
 ### 🔬 Analysis Panel — rPPG Pulse · Face Stability · Texture Entropy · Blink Rate
 
-![Analysis](screenshots/analysis.png)
+<img width="1600" height="754" alt="WhatsApp Image 2026-04-24 at 21 40 38 (2)" src="https://github.com/user-attachments/assets/52495464-8071-402e-91ce-4da26b51d8c2" />
+
 
 > *rPPG Pulse (biological blood-flow liveness) · Face Stability (anti-photo spoof depth index) · Texture Entropy (organic skin complexity) · Blink Rate (natural ocular rhythm) · Environmental Sensors: Moiré artefacts, ambient light, scene coherence · 4-point Analysis Summary*
 
@@ -96,7 +97,8 @@ In a world where AI-generated faces, cloned voices, and synthetic video are indi
 
 ### 🛡️ Deepfake Shield — System Accuracy · Behavioral Anomaly · Evidence Engine
 
-![Deepfake Shield](screenshots/deepfake.png)
+<img width="1600" height="754" alt="WhatsApp Image 2026-04-24 at 21 40 38 (4) - Copy" src="https://github.com/user-attachments/assets/5fa6adc9-19a2-4df6-9e3c-2355af80c884" />
+
 
 > *AI-Generated Video: **76.1%** · Still Photo/Replay: **68.2%** · **Deep Voice/TTS: 97.1%** · Mask/Prosthetic: **73.3%** · Screen Re-broadcast: **53.5%** · Behavioral Anomaly Detector · Evidence Snapshot Engine · Network Fingerprint Analyzer*
 
@@ -104,23 +106,24 @@ In a world where AI-generated faces, cloned voices, and synthetic video are indi
 
 ### 🔊 Audio Integrity Monitor — Live Waveform · Voice Clone · Micro-Tremor
 
-![Audio Integrity](screenshots/audio.png)
+<img width="1600" height="756" alt="WhatsApp Image 2026-04-24 at 21 40 38 (5) - Copy" src="https://github.com/user-attachments/assets/10014ee7-af73-4206-b31c-9e36393dfb02" />
+
 
 > *Live Waveform Monitor (48,000 Hz Stereo) · Background Noise Signature (room acoustic fingerprint) · Micro-Tremor Analysis (jitter and shimmer absent in synthesized voice) · Latency and Phase Coherence (live voice cloning pipeline detection)*
 
 <br/>
 
 ### ⚡ Threat Intelligence — Decision Engine Live Feed · Kill-Switch Log
+<img width="1600" height="753" alt="WhatsApp Image 2026-04-24 at 21 40 39" src="https://github.com/user-attachments/assets/1c93651f-d14f-4af0-bf3f-b167b6854c2d" />
 
-![Threat Intel](screenshots/threat.png)
+
 
 > *Vector 1: Spectral Audio (F0: 188Hz, Synth Indicator: 43.5%) · Vector 2: Texture Micro-Variance (TOO SMOOTH / AI flagged) · Vector 3: Frame-Rate Consistency (REPLAY/SCREEN flagged) · Kill-Switch History · Session History: 99.6% VERIFIED / 29.7% THREAT / 39.1% THREAT*
 
 <br/>
 
 ### 🔧 System Diagnostics — Hardware · Camera · Audio · Cryptographic Engine
-
-![Diagnostics](screenshots/diagnostics.png)
+<img width="1600" height="755" alt="WhatsApp Image 2026-04-24 at 22 15 13" src="https://github.com/user-attachments/assets/96188d8f-6de0-4329-8b40-d5295f33145a" />
 
 > *Camera: 4K (3840x2160), 60fps, H.264/VP8/VP9 · Audio: 48000 Hz Stereo, Noise Suppression: Enabled · Cryptographic Engine: SHA-256, 256-bit · WebRTC: Supported · Web Crypto: Available*
 
