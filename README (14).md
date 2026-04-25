@@ -4,10 +4,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/VIGIL--EYE-Multi--Modal%20Guard-00d4ff?style=for-the-badge&amp;logo=eye&amp;logoColor=white&amp;labelColor=0d1117" />
-<img src="https://img.shields.io/badge/ENGINE-VIGIL--ML%20v4.2.1-7c3aed?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white&amp;labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SECURITY-GRADE%20A%2B-00ff88?style=for-the-badge&amp;logoColor=white&amp;labelColor=0d1117" />
-<img src="https://img.shields.io/badge/LICENSE-MIT-e11d48?style=for-the-badge&amp;logoColor=white&amp;labelColor=0d1117" />
+<img src="<img width="1600" height="752" alt="WhatsApp Image 2026-04-24 at 21 40 38 - Copy" src="https://github.com/user-attachments/assets/e5283003-3da9-4f1d-a6af-0b184182b363" />
+<img src="<img width="1600" height="754" alt="WhatsApp Image 2026-04-24 at 21 40 38 (1)" src="https://github.com/user-attachments/assets/84c8c51d-a9b1-4402-985f-f848d2c65eb7" />
+<img src="<img width="1600" height="754" alt="WhatsApp Image 2026-04-24 at 21 40 38 (4) - Copy" src="https://github.com/user-attachments/assets/0a2990bc-91a1-4e63-a6fc-4a74fd8b677d" />
+<img src="<img width="1600" height="755" alt="WhatsApp Image 2026-04-24 at 22 15 13" src="https://github.com/user-attachments/assets/223e6d08-3988-4c9e-b955-3a5b8dce85ca" />
 
 <br/>
 
